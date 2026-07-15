@@ -350,3 +350,55 @@ img {
 
 .pricing-featured .btn-primary {
   background: #3b5bdb;
+}
+
+/* ===== FOOTER ===== */
+.footer {
+  background: #1a1a2e;
+  padding: 40px 0 24px;
+}
+
+.footer-container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.footer-logo {
+  height: 32px;
+  
+}
+
+.footer-right {
+  display: flex;
+  gap: 24px;
+}
+
+.footer-right a {
+  color: #c8c8d0;
+  font-size: 14px;
+  transition: color 0.2s;
+}
+
+.footer-right a:hover {
+  color: #fff;
+}
+
+.footer-divider {
+  border: none;
+  border-top: 1px solid #2c2c42;
+  margin-bottom: 20px;
+}
+
+.footer-copy {
+  text-align: center;
+  color: #868e96;
+  font-size: 13px;
+}
