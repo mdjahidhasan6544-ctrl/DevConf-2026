@@ -91,3 +91,58 @@ img {
 .btn-register:hover {
   background: #364fc7;
 }
+
+/* ===== HERO ===== */
+.hero {
+  position: relative;
+  background: url('./assets/banner.jpg') center/cover no-repeat;
+  min-height: 520px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 80px 24px;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 10, 26, 0.75);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 700px;
+}
+
+.hero-content h1 {
+  font-size: 56px;
+  font-weight: 800;
+  color: #fff;
+  margin-bottom: 20px;
+  line-height: 1.1;
+}
+
+.hero-content h1 em {
+  font-style: italic;
+  color: #fff;
+}
+
+.hero-content p {
+  font-size: 16px;
+  color: #c8c8d0;
+  margin-bottom: 32px;
+  line-height: 1.7;
+}
+
+.btn-primary {
+  background: #3b5bdb;
+  color: #fff;
+  padding: 14px 32px;
+  font-size: 16px;
+}
+
+.btn-primary:hover {
+  background: #364fc7;
+}
