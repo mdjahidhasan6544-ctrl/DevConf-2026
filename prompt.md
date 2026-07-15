@@ -1,0 +1,1 @@
+write html css code with logo . take any 6 company name.  six square sponsor logo tiles arranged in a 3x2 grid on a subtle, textured background, with soft, even lighting.The overall composition is clean, modern, and high-resolution, perfectly aligned for a website sponsor section.
